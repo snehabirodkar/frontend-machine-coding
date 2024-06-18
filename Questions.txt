@@ -1,0 +1,22 @@
+1. Widgit create (1.5 hrs)
+ - Comment box
+ - Comment button(creates comment box)
+ - Reply button 
+ - Nested comment
+ - Edit
+ - Delete
+ - Like
+
+ 2. ToDo list app (1.5hr - 2hrs)
+ - List of tasks (Todo, Working, Finished)
+ - Status of tasks
+ - edit/delete tasks
+ - Drag and drop
+
+ 3. Food Ordering app
+ - Data from API
+ - Cards(photo, description, Rating, ETA, Menu)
+ - Responsive
+ - Search button (debounce)
+ - Sorting(name, rating, eta)
+ - tagging (Indian, chinese)
